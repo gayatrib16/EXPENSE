@@ -1,0 +1,19 @@
+# Ignore node_modules in both api and client folders
+backend/node_modules/
+frontend/node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
